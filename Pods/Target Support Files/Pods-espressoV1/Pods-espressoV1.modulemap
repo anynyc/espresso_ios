@@ -1,0 +1,6 @@
+framework module Pods_espressoV1 {
+  umbrella header "Pods-espressoV1-umbrella.h"
+
+  export *
+  module * { export * }
+}
